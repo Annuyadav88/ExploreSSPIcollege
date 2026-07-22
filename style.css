@@ -64,7 +64,7 @@ color:white;
 font-weight:bold;
 }
 .hero{
-background: url("WhatsApp.jpeg") no-repeat center center;
+background: url("WhatsApp .jpeg") no-repeat center center;
 background-size: cover;
 background-position: center;
 display: flex;
@@ -108,7 +108,7 @@ text-align: center;
     background-color: #003366;
 }
 .card{
-    width: 280px;
+    width: 100%;
     background: white;
     color: white;
     padding: 25px;
